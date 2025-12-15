@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94~)
 
 ## Hi there 👋
 
