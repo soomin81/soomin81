@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=%EC%96%B4%EC%A0%9C%EC%99%80%20%EB%8B%A4%EB%A5%B8%20%EC%98%A4%EB%8A%98&height=150&fontSize=60&desc=soomin81&descAlignY=75&descAlign=60))
 
-## Hi there 👋
+## 🧱 Tech Stack
+### Language
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin</title><path d="M24 24H0V0h24L12 12Z"/></svg>
 
 <!--
 **soomin81/soomin81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
