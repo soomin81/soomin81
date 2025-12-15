@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6DB33F&text=%EC%96%B4%EC%A0%9C%EC%99%80%20%EB%8B%A4%EB%A5%B8%20%EC%98%A4%EB%8A%98&height=150&fontSize=60&descAlignY=75&descAlign=60))
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6DB33F&text=%EC%96%B4%EC%A0%9C%EC%99%80%20%EB%8B%A4%EB%A5%B8%20%EC%98%A4%EB%8A%98&height=150&fontSize=60&descAlignY=75&descAlign=60)
 
 
 ## 📚 Skill
